@@ -36,12 +36,6 @@ Actualmente cursando el Máster en Big Data, Inteligencia Artificial e Ingenier�
 * Matrículas de Honor en Inteligencia Artificial, Optimización y Modelos de Computación (UGR).
 * Google Cybersecurity Certificate.
 
----
-
-
-### Estadísticas de GitHub
-
-![Racha de GitHub](https://streak-stats.demolab.com/?user=NataliaYue&theme=dracula)
 
 ---
 
