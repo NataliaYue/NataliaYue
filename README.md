@@ -38,10 +38,11 @@ Actualmente cursando el Máster en Big Data, Inteligencia Artificial e Ingenier�
 
 ---
 
+
 ### Estadísticas de GitHub
 
-[![Estadísticas de Natalia](https://github-readme-stats.vercel.app/api?username=NataliaYue&show_icons=true&theme=dracula)](https://github.com/NataliaYue)
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaYue&layout=compact&theme=dracula)](https://github.com/NataliaYue)
+![Estadísticas de Natalia](https://github-readme-stats.vercel.app/api?username=NataliaYue&show_icons=true&theme=dracula)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaYue&layout=compact&theme=dracula)
 
 ---
 
